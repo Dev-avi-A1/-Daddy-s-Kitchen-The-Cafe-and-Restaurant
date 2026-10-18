@@ -1,0 +1,6 @@
+{
+  "name": "Daddy's Kitchen – The Cafe and Restaurant",
+  "description": "Online ordering, delivery, takeaway, and dine-in QR table service for Daddy's Kitchen in Butwal, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
